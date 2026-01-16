@@ -10,7 +10,7 @@ const currentPage = ref('Inicio')
 
 const menuItems = [
  { name: 'Sobre mi', key: 'Inicio' },
-  { name: 'Experiencia', key: 'Experiencia' },
+  { name: 'Formación y experiencia', key: 'Experiencia' },
   { name: 'Tecnologías', key: 'Tecnologias' },
   { name: 'Blog', key: 'Blog' },
   { name: 'Contacto', key: 'Contacto' },

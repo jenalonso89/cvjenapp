@@ -7,7 +7,7 @@
         class="w-1/2 object-cover"
       />
       <div class="p-12 flex flex-col justify-center">
-        <h1 class="text-4xl font-bold mb-6">El mundo de Jen</h1>
+        <h1 class="text-4xl font-bold mb-6">Jennifer Alonso Blanco</h1>
         <p class="mb-4 text-gray-700 text-lg">
           blablablablablablablablablablablab
         </p>
